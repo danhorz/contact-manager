@@ -1,0 +1,20 @@
+.contact-detail {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #706d6d;
+    border-radius: 8px;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    
+    
+  }
+  
+  .contact-detail h2 {
+    margin-top: 0;
+  }
+  
+  .contact-detail p {
+    margin: 0.5rem 0;
+  }
